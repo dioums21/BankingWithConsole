@@ -1,0 +1,11 @@
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/bin/Debug/netcoreapp3.0/BankingWithMethods
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/bin/Debug/netcoreapp3.0/BankingWithMethods.deps.json
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/bin/Debug/netcoreapp3.0/BankingWithMethods.runtimeconfig.json
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/bin/Debug/netcoreapp3.0/BankingWithMethods.runtimeconfig.dev.json
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/bin/Debug/netcoreapp3.0/BankingWithMethods.dll
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/bin/Debug/netcoreapp3.0/BankingWithMethods.pdb
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/obj/Debug/netcoreapp3.0/BankingWithMethods.csprojAssemblyReference.cache
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/obj/Debug/netcoreapp3.0/BankingWithMethods.AssemblyInfoInputs.cache
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/obj/Debug/netcoreapp3.0/BankingWithMethods.AssemblyInfo.cs
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/obj/Debug/netcoreapp3.0/BankingWithMethods.dll
+/Users/mamadou/Projects/Assignment3_Final/BankingWithMethods/obj/Debug/netcoreapp3.0/BankingWithMethods.pdb
